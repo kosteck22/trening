@@ -2,6 +2,6 @@
 
 require 'vendor/autoload.php';
 
-echo 'ok';
+echo 'ok!';
 
 return 'homepagie';
